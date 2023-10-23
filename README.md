@@ -5,6 +5,7 @@ Este é um projeto de uma uma página de um produto desenvolvido pela trilha de 
 ![HTML5](https://img.shields.io/badge/HTML5-FFA500?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1E90FF?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ### Prévia
+ - Você pode acessar esse site e testa-lo através deste [link](https://johndriguess.github.io/CubosMagikos/)
 ![](https://drive.google.com/uc?id=1Xz1CgG9rMZe6gjTg4VIbAJ3IQEm_r2a6)
 
 ### Colaboradores:
